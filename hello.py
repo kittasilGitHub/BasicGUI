@@ -1,4 +1,5 @@
 print("Hello, World!")
+print("Ready for Production!")
 
 firstname = "Kittasil"
 lastname = "Silanon"
