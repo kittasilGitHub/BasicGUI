@@ -1,5 +1,5 @@
 print("Hello, World!")
-print("Ready for Production!")
+print("Ready for Production V2.0")
 
 firstname = "Kittasil"
 lastname = "Silanon"
